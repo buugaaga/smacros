@@ -1,0 +1,14 @@
+[package]
+name = "smacros"
+version = "0.1.0"
+edition = "2024"
+description = "Minimalistic macro for easy String creation"
+license = "MIT OR Apache-2.0"
+authors = ["Eldar Nasyrov <i.nasrov@gmail.com"]
+repository = "https://github.com/buugaaga/smacros"
+documentation = "https://docs.rs/s-macro"
+
+[lib]
+proc-maaro = false
+
+[dependencies]

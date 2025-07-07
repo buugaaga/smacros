@@ -30,7 +30,6 @@ Add to Cargo.toml:
 ```toml
 [dependencies]
 s-macro = "0.1"
-License: MIT OR Apache-2.0
 ```
 
 This version:
